@@ -1,0 +1,47 @@
+[33mcommit a32b5754c090c48825b2322b34074f0b5ad72212[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: user <someemail@sdad.com>
+Date:   Sun Aug 27 01:13:07 2023 +0300
+
+    Added feature4 in development branch
+
+[33mcommit ba4e459f09d2ca78bc18c92af3acf2c65ccd54bb[m
+Author: user <someemail@sdad.com>
+Date:   Sun Aug 27 01:12:37 2023 +0300
+
+    Added feature3 in development branch
+
+[33mcommit 234014da854998347d8967d8c8c15999b565c971[m
+Author: user <someemail@sdad.com>
+Date:   Sun Aug 27 01:11:50 2023 +0300
+
+    Added feature2 in development branch
+
+[33mcommit 032c342bada62a6692978fcc156ef9f04d16e3b1[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: user <someemail@sdad.com>
+Date:   Sun Aug 27 01:10:04 2023 +0300
+
+    Added new feature
+
+[33mcommit c1126e0dc8da8ef85ce45cefaf3ee6e18e371b8f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Borys Kondrashov <95252258+Tuburni@users.noreply.github.com>
+Date:   Sun Aug 27 01:05:29 2023 +0300
+
+    Create version01.txt
+
+[33mcommit 5870e4cd06572f2612d64a71c02d8bcbf6c7ce4a[m
+Author: Ubuntu <ubuntu@ip-172-31-38-160.eu-west-3.compute.internal>
+Date:   Thu Aug 24 14:50:39 2023 +0000
+
+    v1.2
+
+[33mcommit 7eeb57483aebdefd515e6483277ee234b8a4ebd9[m
+Author: user <someemail@sdad.com>
+Date:   Wed Aug 23 21:21:21 2023 +0300
+
+    v.1
+
+[33mcommit 92d948f4ff78e991ef03dd8e9c400d1c5d643657[m
+Author: Borys Kondrashov <95252258+Tuburni@users.noreply.github.com>
+Date:   Wed Aug 23 21:13:06 2023 +0300
+
+    Initial commit
